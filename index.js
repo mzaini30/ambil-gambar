@@ -1,3 +1,8 @@
 module.exports = function(x){
-	return x.match(/!\[[^\]]*\]\((.*?)\s*("(?:.*[^"])")?\s*\)/)[1]
+	const pilih = x.match(/!\[[^\]]*\]\((.*?)\s*("(?:.*[^"])")?\s*\)/)
+	let hasil = 'https://i.ibb.co/yYWd5t0/undraw-Waiting-for-you-ldha.png'
+	if (pilih != null) {
+		hasil = pilih[1]
+	}
+	return hasil
 }
