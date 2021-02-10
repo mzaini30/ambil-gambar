@@ -11,7 +11,7 @@ npm i mzaini30/ambil-gambar
 ## Contoh Penggunaan
 
 ```javascript
-const ambilGambar = require('./index')
+const ambilGambar = require('ambil-gambar')
 const teks = `
 ![Bersandar di pohon](https://i.ibb.co/yYWd5t0/undraw-Waiting-for-you-ldha.png)
 
