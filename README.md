@@ -1,6 +1,6 @@
 # Ambil Gambar
 
-Untuk mengambil gambar dari teks Markdown
+Untuk mengambil gambar pertama dari teks Markdown. Biasanya sih untuk thumbnail postingan blog.
 
 ## Instalasi
 
