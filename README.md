@@ -5,7 +5,7 @@ Untuk mengambil gambar pertama dari teks Markdown. Biasanya sih untuk thumbnail 
 ## Instalasi
 
 ```bash
-npm i @mzaini30/ambil-gambar
+npm i ambil-gambar
 ```
 
 ## Contoh Penggunaan

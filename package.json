@@ -1,6 +1,6 @@
 {
-  "name": "@mzaini30/ambil-gambar",
-  "version": "1.0.1",
+  "name": "ambil-gambar",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
